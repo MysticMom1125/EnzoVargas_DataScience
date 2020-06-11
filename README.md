@@ -10,11 +10,11 @@ Meu portfólio de projetos de Data Science
 # Enzo Vargas
 <sub>*Data Scientist*</sub>
 
-Como um cientista de dados e publicitário, adquiri uma combinação de habilidades como criatividade, habilidade analítica, persuasão, programação etc. Comecei a trabalhar na área de comunicação aos 15 anos na EEP-HCFMUSP e recentemente procuro usar os dados para corroborar em meus projetos de publicidade. Adoro trabalhar em equipe e resolver desafios em conjunto, sou competitivo e admiro quem pensa de forma disruptiva.
+Estou no 1º semestre de publicidade e propaganda e estudo Data Science por conta própria e em breve trabalharei na área de Growth Hacking. Como um publicitário e data scientist, adquiri uma combinação de habilidades como criatividade, aptidão analítica, persuasão, programação etc. Comecei a trabalhar na área de comunicação aos 15 anos na EEP-HCFMUSP e recentemente procuro usar os dados para corroborar em meus projetos de publicidade. Adoro trabalhar em equipe e resolver desafios em conjunto, sou competitivo e admiro quem pensa de forma disruptiva. 
 
-Atualmente, estou no 1º semestre de Publicidade e Propaganda na Anhembi Morumbi (UAM). Referentes a área de ciência de dados, fiz o curso **Data Science na Prática** do Carlos Melo. 
 
-**Conhecimento em:** Python, Machine Learning, Marketing Digital e Design.
+
+**Experiência em:** Python, Data Science, Marketing Digital e Design.
 
 **Links:**
 * [Instagram](https://www.instagram.com/enzovargass_/?hl=pt-br)
