@@ -21,7 +21,7 @@ Atualmente, estou no 1º semestre de Publicidade e Propaganda na Anhembi Morumbi
 * [LinkedIn](https://www.linkedin.com/in/enzo-vargas/)
 * [Medium](https://medium.com/@enzovargas)
 
-##Meus projetos:
+## Meus projetos:
 * **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3hap30d
 ---
 
