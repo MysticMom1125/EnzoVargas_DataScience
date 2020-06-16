@@ -23,7 +23,7 @@ Estou no 1º semestre de publicidade e propaganda e estudo Data Science por cont
 
 ## Meus projetos:
 * **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3hap30d
-* **Analisando o crime no Rio de Janeiro:** https://bit.ly/2N2O5jV
+* **Analisando os crimes no Rio de Janeiro:** https://bit.ly/2N2O5jV
 ---
 
 
